@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pomodoro-clock/static/css/main.64491497.css",
+    "main.js": "/pomodoro-clock/static/js/main.b54a2d20.js",
+    "static/js/787.30cd3fe9.chunk.js": "/pomodoro-clock/static/js/787.30cd3fe9.chunk.js",
+    "static/media/pomodoro.png": "/pomodoro-clock/static/media/pomodoro.3e4a22597e287cb5bd29.png",
+    "index.html": "/pomodoro-clock/index.html",
+    "main.64491497.css.map": "/pomodoro-clock/static/css/main.64491497.css.map",
+    "main.b54a2d20.js.map": "/pomodoro-clock/static/js/main.b54a2d20.js.map",
+    "787.30cd3fe9.chunk.js.map": "/pomodoro-clock/static/js/787.30cd3fe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64491497.css",
+    "static/js/main.b54a2d20.js"
+  ]
+}
